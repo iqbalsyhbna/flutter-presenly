@@ -11,6 +11,9 @@ class LoginView extends GetView<LoginController> {
       appBar: AppBar(
         title: Text('Login Page'),
         centerTitle: true,
+        actions: [
+          Icon(Icons.person),
+        ],
       ),
       body: ListView(
         padding: EdgeInsets.all(20),
