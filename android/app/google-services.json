@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1051133673231",
+    "project_id": "presenly-c6db0",
+    "storage_bucket": "presenly-c6db0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051133673231:android:f29c51166f225e718b087a",
+        "android_client_info": {
+          "package_name": "com.syahbana.presenly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1051133673231-oq8m1qs5kl5vianf67upt9i3jqm2ojn2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW3zntHA4a310ynOC5w7YUKwDj9_RqqME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1051133673231-oq8m1qs5kl5vianf67upt9i3jqm2ojn2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
